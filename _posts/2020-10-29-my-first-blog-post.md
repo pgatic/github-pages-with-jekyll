@@ -4,7 +4,7 @@ date: 2020-10-29
 ---
 
 # Figma
-[figma logo](https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png)
+![figma logo](https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png)
 __Figma__ is a cloud-based design tool that is similar to _Sketch_ in functionality and features, but with big differences that make _Figma_ better for team collaboration. For those skeptical of such claims, we’ll explain how Figma simplifies the design process and is more effective than other programs at helping designers and teams work together efficiently.
 
 ## Figma Works on Any Platform
